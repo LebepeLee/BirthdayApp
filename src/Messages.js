@@ -1,0 +1,16 @@
+export default Messages = [
+    {url:require('message.jpg')},
+     {url:require('message1.jpg')},
+     {url:require('message2.jpg')},
+     {url:require('message3.jpg')},
+     {url:require('message4.jpg')},
+     {url:require('message5.jpg')},
+     {url:require('message6.jpg')},
+     {url:require('message7.jpg')},
+     {url:require('message8.jpg')},
+     {url:require('message9.jpg')},
+     {url:require('message10.jpg')},
+     {url:require('message11.jpg')},
+     {url:require('message12.jpg')},
+     {url:require('message13.jpg')},
+]
